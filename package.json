@@ -59,7 +59,7 @@
     "utility-types": "^3.10.0"
   },
   "peerDependencies": {
-    "re2": "^1.17.2"
+    "re2": "^1.19.1"
   },
   "peerDependenciesMeta": {
     "re2": {
